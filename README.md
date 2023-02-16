@@ -13,3 +13,10 @@ Martes 14 de Febrero de 2023
       1) Bucles: Trabajamos los bucles de Python (Terminamos)
       2) SpaceX - 1 - Data Collection Api v2: Pasamos una lista a Panda y la limpiamos para trabajar con ella
       3) SpaceX - 3 -EDA Using SQL: Agregamos al entorno Panda funciones creadas con Sql.
+
+   Miercoles 15 de Febrero de 2023
+      Estamos empezando a trabajar con IA
+      3 Notbook que son:
+      1)Introducción a Machine Learning con Scikit-Learn v2
+      2)Predecir el valor de Bitcoin
+      3)Folium (Creacuión de mapas)
